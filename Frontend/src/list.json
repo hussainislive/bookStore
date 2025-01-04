@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "One Ring to rule them all",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.harperapps.com/hcuk/covers/9780008537777/x400.jpg?ph=harperreach_coming_soon.png"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Book",
+    "title": "Journey Through the Stars",
+    "price": 0,
+    "category": "Free",
+    "image": "https://image.tmdb.org/t/p/original/dGTtW6GUcs4FaLzGi9KBxpo8MWb.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Science Book",
+    "title": "The Secrets of the Universe",
+    "price": 1200,
+    "category": "science",
+    "image": "https://i.pinimg.com/564x/3e/1b/d1/3e1bd1a8a82fd6a4ab1269e288e0b729.jpg"
+  },
+  {
+    "id": 4,
+    "name": "History Book",
+    "title": "The Rise of Civilizations",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/564x/3e/1b/d1/3e1bd1a8a82fd6a4ab1269e288e0b729.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mystery Book",
+    "title": "The Secret Code",
+    "price": 0,
+    "category": "Free",
+    "image": "https://image.tmdb.org/t/p/original/dGTtW6GUcs4FaLzGi9KBxpo8MWb.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Book",
+    "title": "The Dragon's Lair",
+    "price": 100,
+    "category": "fantasy",
+    "image": "https://i.pinimg.com/564x/3e/1b/d1/3e1bd1a8a82fd6a4ab1269e288e0b729.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Philosophy Book",
+    "title": "The Meaning of Life",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.harperapps.com/hcuk/covers/9780008537777/x400.jpg?ph=harperreach_coming_soon.png"
+  },
+  {
+    "id": 8,
+    "name": "Romance Book",
+    "title": "The Heart's Desire",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/564x/3e/1b/d1/3e1bd1a8a82fd6a4ab1269e288e0b729.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Horror Book",
+    "title": "Whispers in the Dark",
+    "price": 80,
+    "category": "horror",
+    "image": "https://i.harperapps.com/hcuk/covers/9780008537777/x400.jpg?ph=harperreach_coming_soon.png"
+  },
+  {
+    "id": 10,
+    "name": "Travel Book",
+    "title": "Around the World",
+    "price": 0,
+    "category": "Free",
+    "image": "https://image.tmdb.org/t/p/original/dGTtW6GUcs4FaLzGi9KBxpo8MWb.jpg"
+  }
+]
